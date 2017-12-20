@@ -1,0 +1,23 @@
+{
+  "name": "simple-template",
+  "version": "1.0.0",
+  "description": "a simple html5 template",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliotc1986/simple-template.git"
+  },
+  "author": "Elliott Hindman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliotc1986/simple-template/issues"
+  },
+  "homepage": "https://github.com/eliotc1986/simple-template#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}

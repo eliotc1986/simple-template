@@ -1,3 +1,22 @@
 /*============================
 APP STYLES
 ============================*/
+
+/*layouts*/
+.spacer-small,
+.spacer-medium,
+.spacer-large {
+  display: block;
+}
+
+.spacer-small {
+  padding: 5px 0;
+}
+
+.spacer-medium {
+  padding: 20px 0;
+}
+
+.spacer-large {
+  padding: 30px 0;
+}
