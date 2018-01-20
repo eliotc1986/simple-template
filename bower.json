@@ -1,0 +1,23 @@
+{
+  "name": "simple-template",
+  "description": "simple html starter template",
+  "main": "index.js",
+  "authors": [
+    "Elliott Hindman"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "template"
+  ],
+  "homepage": "https://github.com/eliotc1986/simple-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "3.3.7"
+  }
+}

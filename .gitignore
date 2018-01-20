@@ -7,6 +7,4 @@ node_modules/
 bower_components
 
 # project files
-package.json
 dist/
-package-lock.json

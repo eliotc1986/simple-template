@@ -1,0 +1,22 @@
+{
+  "name": "simple-template",
+  "version": "1.0.0",
+  "description": "simple html start template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliotc1986/simple-template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Elliott Hindman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliotc1986/simple-template/issues"
+  },
+  "homepage": "https://github.com/eliotc1986/simple-template#readme"
+}
